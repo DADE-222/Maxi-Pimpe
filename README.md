@@ -1,5 +1,7 @@
 Maxi Pimp - Utilitaire de Maintenance Windows
 
+<img width="1308" height="632" alt="image" src="https://github.com/user-attachments/assets/45925af7-379c-462f-902a-e48e72d983a5" />
+
 Le Projet: "Maxi Pimp" est un de mes tout premiers projets, écrit en script Batch (.bat) lorsque j'étais adolescent. C'était ma première tentative de créer un "couteau suisse" pour la maintenance et le diagnostic de Windows. Aujourd'hui étudiant en M2 de Psychologie Ergonomie, spécialisé en UI/UX, je garde ce projet comme un souvenir amusant de mes débuts et de ma passion pour l'informatique. Le code a été récemment nettoyé, sécurisé et amélioré pour être plus fonctionnel et stable, tout en gardant son âme d'origine.
 
 Fonctionnalités: L'utilitaire propose plusieurs outils accessibles via un menu interactif :
